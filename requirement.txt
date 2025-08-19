@@ -1,0 +1,6 @@
+# 📋 requirements.txt
+```txt
+numpy>=1.22
+matplotlib>=3.5
+scipy>=1.8
+scikit-image>=0.19
